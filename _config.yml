@@ -30,20 +30,20 @@ menu:
 #       url: /peru/
 # ----------------------------------
 
-layout_home_page: true # Homepage layout ( two layout is available, you can set the another layout by change the value of layout_home_page "true" to "false")
+layout_home_page: false # Homepage layout ( two layout is available, you can set the another layout by change the value of layout_home_page "true" to "false")
 
 featured-post-slider: true # You can enable or disable the featured-post-slider using true or false values.
 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
+  hero-subtitle: I’m just someone who want to loose some words on topics im interested.
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: AFewWordsOn
 
 #-------------------------------
 # Contact Info
